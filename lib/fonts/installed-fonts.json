@@ -1,0 +1,10 @@
+{
+    "simsun": {
+        "normal": "\/var\/www\/html\/wp-content\/plugins\/civicrm\/civicrm\/vendor\/dompdf\/dompdf\/lib\/fonts\/simsun_normal_39ae4965d443d3ce31ebed726a003aa9",
+        "bold": "simsun_bold_bf766d299dc19028681e336785fb6cf8"
+    },
+    "notosanssc": {
+        "normal": "\/var\/www\/html\/wp-content\/plugins\/civicrm\/civicrm\/vendor\/dompdf\/dompdf\/lib\/fonts\/notosanssc_normal_c2748b16b04a7dfa4b5ccf7cc341389c",
+        "bold": "notosanssc_bold_a74eed06150d284b0f7324b4f1ba4f3e"
+    }
+}
