@@ -20,12 +20,12 @@
 
 @font-face {
 	font-family: 'NotoSansSC';
-	src: url('https://ahcs.socialservicesconnect.com/wp-content/plugins/civicrm/civicrm/vendor/dompdf/dompdf/lib/fonts/NotoSansSC-Regular.ttf') format('truetype');
+	src: url('../fonts/NotoSansSC-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'NotoSansSC';
-    src: url('https://ahcs.socialservicesconnect.com/wp-content/plugins/civicrm/civicrm/vendor/dompdf/dompdf/lib/fonts/NotoSansSC-Bold.ttf') format('truetype');
+    src: url('../fonts/NotoSansSC-Bold.ttf') format('truetype');
     font-weight: bold;
 }
 
